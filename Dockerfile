@@ -1,3 +1,3 @@
-FROM harikagituser/website
+FROM harikagituser/webapp
 ADD . /var/www/html
 
